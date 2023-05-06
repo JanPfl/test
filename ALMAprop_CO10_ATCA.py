@@ -221,7 +221,7 @@ ax.tick_params(axis='y',which='both',direction='in',right=True)
 plt.tick_params(axis='both', which='both', direction='in', length=6, width=2, colors='k') #, grid_color='r', grid_alpha=0.5
 
 
-###############################
+############################### PLOT BOUNDARIES OF ATCA POINTINGS ###########
 
 import matplotlib.pyplot as plt
 import numpy as np
